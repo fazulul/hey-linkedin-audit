@@ -1,0 +1,8 @@
+{
+  "name": "hey-linkedin-audit",
+  "version": "3.0.0",
+  "description": "Tests a LinkedIn profile with 25 evidence-based checks, writes paste-ready copy with a source for every number, and builds a 10-page HTML report.",
+  "author": {"name": "Hey Search"},
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["linkedin", "profile", "audit", "personal-brand"]
+}

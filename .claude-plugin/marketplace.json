@@ -1,0 +1,5 @@
+{
+  "name": "hey-search-audit",
+  "owner": {"name": "Hey Search"},
+  "plugins": [{"name": "hey-linkedin-audit", "source": "./", "description": "Tests a LinkedIn profile with 25 evidence-based checks and builds a 10-page HTML report."}]
+}

@@ -1,0 +1,317 @@
+{
+ "name": "Sam Example",
+ "date": "1 JAN 2027",
+ "version": "V1",
+ "profile_url": "linkedin.com/in/sam-example",
+ "goal": "A fictional goal, such as a new job in one sector",
+ "verdict": [
+  "SAMPLE",
+  "REPORT"
+ ],
+ "cover_intro": "A fictional profile that shows every field in this report.",
+ "source_short": "fictional sample data",
+ "checks": {
+  "F1": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "F2": {
+   "mark": "fail",
+   "evidence": "The headline names no sector."
+  },
+  "F3": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "F4": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "F5": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "U1": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "U2": {
+   "mark": "pass",
+   "evidence": "Clear face, plain background."
+  },
+  "U3": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "U4": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "U5": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "B1": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "B2": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "B3": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "B4": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "B5": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "C1": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "C2": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "C3": {
+   "mark": "unknown",
+   "evidence": "Not in the data."
+  },
+  "C4": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "C5": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "R1": {
+   "mark": "unknown",
+   "evidence": "Not in the data."
+  },
+  "R2": {
+   "mark": "unknown",
+   "evidence": "Not in the data."
+  },
+  "R3": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "R4": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  },
+  "R5": {
+   "mark": "part",
+   "evidence": "Short evidence quoted from the profile."
+  }
+ },
+ "overview": {
+  "title": "Short finding.",
+  "em": "Second half in pink.",
+  "lede": "Say where visitors drop off in two sentences. HTML such as <strong>bold</strong> is allowed here."
+ },
+ "priorities": [
+  {
+   "tag": "FOUND",
+   "title": "First priority.",
+   "text": "What is wrong and what it costs."
+  },
+  {
+   "tag": "UNDERSTOOD",
+   "title": "Second priority.",
+   "text": "What is wrong and what it costs."
+  },
+  {
+   "tag": "BELIEVED",
+   "title": "Third priority.",
+   "text": "What is wrong and what it costs."
+  }
+ ],
+ "visual": {
+  "title": "Five seconds.",
+  "em": "One story.",
+  "concludes": "What a stranger thinks today.",
+  "should": "What they should think.",
+  "photo": {
+   "image": "example-photo.jpg",
+   "heading": "Photo heading.",
+   "verdict": "Short verdict.",
+   "text": "What the photo shows.",
+   "recommendation": "Keep or replace, and why."
+  },
+  "banner": {
+   "image": "example-banner.jpg",
+   "heading": "Banner heading.",
+   "text": "What the banner says and misses.",
+   "new_line": "MAIN LINE,<br>SECOND LINE",
+   "new_small": "SUPPORTING LINE",
+   "brief": "Design brief for a 1584 × 396px banner."
+  }
+ },
+ "headline": {
+  "title": "Use the words",
+  "em": "the reader types.",
+  "current": "Current headline as plain text | Second part | Third part",
+  "search_terms": [
+   "Current",
+   "Sector word",
+   "Role word"
+  ],
+  "options": [
+   {
+    "label": "RECOMMENDED",
+    "text": "First option, with 12 years of proof"
+   },
+   {
+    "label": "PROOF LED",
+    "text": "Second option as plain text"
+   },
+   {
+    "label": "BUYER LED",
+    "text": "Third option as plain text"
+   }
+  ],
+  "why_a": "Why this option suits the goal."
+ },
+ "ledger": [
+  {
+   "claim": "12 years in the sector",
+   "source": "Experience section",
+   "status": "pass"
+  },
+  {
+   "claim": "30% growth in 2024",
+   "source": "About only. In no role entry",
+   "status": "part"
+  }
+ ],
+ "about": {
+  "title": "Lead with the win,",
+  "em": "not the job description.",
+  "text": "Paste-ready About as plain text. It grew 30% in 2024.\n\nA blank line makes a new paragraph."
+ },
+ "credibility": {
+  "title": "Make the next step",
+  "em": "easy to take.",
+  "featured_heading": "Pin three items.",
+  "featured": [
+   "<b>First.</b> Title.",
+   "<b>Second.</b> Title.",
+   "<b>Third.</b> Title."
+  ],
+  "experience_heading": "Put results in every role.",
+  "experience_fixes": [
+   "First fix.",
+   "Second fix."
+  ],
+  "experience_text": "Job title, Company (2024 to now)\nPaste-ready results as plain text.",
+  "skills": [
+   "1 · First skill",
+   "2 · Second skill",
+   "3 · Third skill"
+  ],
+  "skills_note": "How to fix the skills."
+ },
+ "content": {
+  "title": "Give people",
+  "em": "a reason to look.",
+  "lede": "What the activity shows today.",
+  "posts": [
+   {
+    "hook": "First real opening line.",
+    "why": "Why it suits this person.",
+    "tag": "PROOF"
+   },
+   {
+    "hook": "Second real opening line.",
+    "why": "Why it suits this person.",
+    "tag": "OPINION"
+   },
+   {
+    "hook": "Third real opening line.",
+    "why": "Why it suits this person.",
+    "tag": "STORY"
+   }
+  ],
+  "weeks": [
+   "Week one work.",
+   "Week two work.",
+   "Week three work.",
+   "Week four work."
+  ]
+ },
+ "roadmap": {
+  "title": "A fix plan,",
+  "em": "not a wish list.",
+  "rows": [
+   {
+    "priority": "P0",
+    "title": "First action",
+    "detail": "Detail",
+    "owner": "Owner",
+    "target": "Today",
+    "fixes": [
+     "F2",
+     "U1"
+    ]
+   },
+   {
+    "priority": "P1",
+    "title": "Second action",
+    "detail": "Detail",
+    "owner": "Owner",
+    "target": "Day 3",
+    "fixes": [
+     "B2"
+    ]
+   },
+   {
+    "priority": "P2",
+    "title": "Third action",
+    "detail": "Detail",
+    "owner": "Owner",
+    "target": "Week 2",
+    "fixes": [
+     "C3"
+    ],
+    "helps": [
+     "R1",
+     "R2"
+    ]
+   }
+  ],
+  "success": "What to measure.",
+  "delivers": "What this report gives."
+ },
+ "next": {
+  "title": "Only this person can",
+  "em": "confirm these.",
+  "lede": "Check these items before pasting.",
+  "checks": [
+   {
+    "title": "First item",
+    "text": "Detail.",
+    "tag": "REQUIRED"
+   },
+   {
+    "title": "Second item",
+    "text": "Detail.",
+    "tag": "USEFUL"
+   }
+  ],
+  "assessment": "Where the data came from.",
+  "cta": {
+   "title": "Closing line.",
+   "text": "Supporting line.",
+   "url": "https://heysearch.com/",
+   "label": "heysearch.com"
+  }
+ }
+}
